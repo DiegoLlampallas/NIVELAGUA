@@ -87,7 +87,7 @@ delay (2000);
 }
 
 ```
-![]https://github.com/DiegoLlampallas/NIVELAGUA/blob/main/13.png?raw=true)
+![](https://github.com/DiegoLlampallas/NIVELAGUA/blob/main/13.png?raw=true)
 
 ## Partes
 ![](https://github.com/DiegoLlampallas/NIVELAGUA/blob/main/14.png?raw=true)
