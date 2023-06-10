@@ -87,21 +87,23 @@ delay (2000);
 }
 
 ```
-![](https://github.com/DiegoLlampallas/DHT11_LCD/blob/main/2.png?raw=true)
+![]https://github.com/DiegoLlampallas/NIVELAGUA/blob/main/13.png?raw=true)
 
 ## Partes
-![](https://github.com/DiegoLlampallas/DHT11_LCD/blob/main/2.png?raw=true)
-![](https://github.com/DiegoLlampallas/DHT11_LCD/blob/main/2.png?raw=true)
-![](https://github.com/DiegoLlampallas/DHT11_LCD/blob/main/2.png?raw=true)
+![](https://github.com/DiegoLlampallas/NIVELAGUA/blob/main/14.png?raw=true)
+![](https://github.com/DiegoLlampallas/NIVELAGUA/blob/main/15.png?raw=true)
+![](https://github.com/DiegoLlampallas/NIVELAGUA/blob/main/16.png?raw=true)
 
 ## Conexión
 
-![](https://github.com/DiegoLlampallas/DHT11_LCD/blob/main/2.png?raw=true)
+![](https://github.com/DiegoLlampallas/NIVELAGUA/blob/main/17.png?raw=true)
 
 ## Funcionamiento del programa
 
-![](https://github.com/DiegoLlampallas/DHT11_LCD/blob/main/3.png?raw=true)
-![](https://github.com/DiegoLlampallas/DHT11_LCD/blob/main/4.png?raw=true)
+![](https://github.com/DiegoLlampallas/NIVELAGUA/blob/main/18.png?raw=true)
+![](https://github.com/DiegoLlampallas/NIVELAGUA/blob/main/19.png?raw=true)
+![](https://github.com/DiegoLlampallas/NIVELAGUA/blob/main/20.png?raw=true)
+![](https://github.com/DiegoLlampallas/NIVELAGUA/blob/main/21.png?raw=true)
 
 ## Evidencias
 
