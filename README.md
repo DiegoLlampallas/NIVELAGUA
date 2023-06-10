@@ -1,5 +1,7 @@
 # PRACTICA NIVEL DE AGUA de Diego Llampallas
 
+En esta práctica dependiendo de el nivel de agua que hay se va encendiendo un foco que va de 0 a 100 ml, 100 a 200ml, 200 a 300 ml y de 300 a 400ml que al estar en 400ml esta lleno el tanque de agua.
+
 ## Programación
 ```
 // defines pins numbers
