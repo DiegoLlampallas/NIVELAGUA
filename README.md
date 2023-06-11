@@ -1,7 +1,39 @@
 # PRACTICA NIVEL DE AGUA de Diego Llampallas
 
+## Introducción
+A través de la página https://wokwi.com/  se puede hacer simulaciones de programas con arduino y sensores.
 En esta práctica dependiendo de el nivel de agua que hay se va encendiendo un foco que va de 0 a 100 ml, 100 a 200ml, 200 a 300 ml y de 300 a 400ml que al estar en 400ml esta lleno el tanque de agua.
+Este repositorio muestra como podemos programar una ESP32 con el sensor DHT11.
 
+### Descripción
+
+La ```Esp32``` la utilizamos en un entorno de adquision de datos, lo cual en esta practica ocuparemos un sensor (```Ultrasonico```) para adquirir medir distancia y leds como indicadores con sus respectivas resistencias; Cabe aclarar que esta practica se usara un simulador llamado [WOKWI](https://https://wokwi.com/).
+
+
+## Material Necesario
+
+Para realizar esta practica se usaran los siguientes elementos:
+
+- [WOKWI](https://https://wokwi.com/)
+- Tarjeta ESP 32
+- Sensor Ultrasonico
+- 4 leds
+- 4 resistencias 220 Ohms
+
+
+
+## Instrucciones
+
+### Requisitos previos
+
+Para poder usar este repositorio necesitas entrar a la plataforma [WOKWI](https://https://wokwi.com/).
+
+
+### Instrucciones de preparación de entorno 
+1. Una vez dentro de wokwi seleccionar la tarjeta ESP32
+
+![](https://github.com/DiegoLlampallas/Practica-DHT22/blob/main/6.png?raw=true)
+2. Abrir la terminal de programación y colocar la siguente programación:
 ## Programación
 ```
 // defines pins numbers
@@ -99,6 +131,17 @@ delay (2000);
 ## Conexión
 
 ![](https://github.com/DiegoLlampallas/NIVELAGUA/blob/main/17.png?raw=true)
+
+### Instrucciónes de operación
+
+1. Iniciar simulador.
+2. Medir con el sensor ultrasonico las distintas distancias.
+3. Orbservar que cada vez que incrementa la distancia un led va encendiendo.
+
+
+## Resultados
+
+Cuando haya funcionado, se verá en la pantalla los leds encendiendose dependiendo la distancia de llenado del agua mientras más cerca es que esta cada vez más lleno encendiendo led por led a su paso, mientras mas lejos es que esta más vacio se van apagando los leds.
 
 ## Funcionamiento del programa
 
